@@ -1,2 +1,2 @@
 # embrc-provenance-model
-Provenance model for EMBRC-type biological data
+Here you will find all the documentation describing the provenance model for EMBRC-type biological data. The development of this model began under the Horizon project *EOSC-Life*.  
