@@ -5,8 +5,8 @@ This repository holds the documentation and examples related to the provenance m
 
 * Documentation: the explanation of the model can be currently found on https://docs.google.com/document/d/1HhHCjzkVwIQoEJANtLIiFyheIFxuvT6MORDlgOg6xUo/edit
 (comments are welcomed). Once the model is ready for a version 1 release, this documentation will be moved here to Github.
-* [UML of the model:](https://github.com/kmexter/embrc-prov-model/blob/main/EMBRC%20prov%20model.drawio.svg)
+* [UML of the model](https://github.com/emo-bon/probenance-model-docs/blob/main/EMBRC%20prov%20model.drawio.svg)
 * PROV diagram of the model: TBD
-* [EML example:](https://github.com/kmexter/embrc-prov-model/blob/main/EMBRCprovmodel_example.xml). This is a suggestion as to how the provenence information can be included in a metadata record in EML. Note that the EML metadata schema cannot accommodate all of the aspects of the model. 
-* [TTL example:](https://github.com/kmexter/embrc-prov-model/blob/main/embrc_prov_example.ttl). This is a suggestion as to how the provenance information can be included in a turtle file. 
+* [EML example](https://github.com/emo-bon/probenance-model-docs/blob/main/EMBRCprovmodel_example.xml). This is a suggestion as to how the provenence information can be included in a metadata record in EML. Note that the EML metadata schema cannot accommodate all of the aspects of the model. 
+* [TTL example](https://github.com/emo-bon/probenance-model-docs/blob/main/embrc_prov_example.ttl). This is a suggestion as to how the provenance information can be included in a turtle file. 
   
